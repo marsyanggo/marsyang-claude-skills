@@ -1,0 +1,17 @@
+{
+  "name": "marsyang-claude-skills",
+  "version": "0.1.0",
+  "description": "Personal Claude Code skills: agent-team multi-agent orchestration + target/save/load session continuity.",
+  "author": {
+    "name": "marsyang"
+  },
+  "homepage": "https://github.com/marsyanggo/marsyang-claude-skills",
+  "repository": "https://github.com/marsyanggo/marsyang-claude-skills",
+  "license": "MIT",
+  "skills": [
+    "skills/agent-team",
+    "skills/target",
+    "skills/save",
+    "skills/load"
+  ]
+}
